@@ -1,4 +1,4 @@
-##### import GenSetModbus_rev106
+##### import GenSetModbus_rev106 git file
 from esp32 import *
 import sys
 import os
